@@ -12,13 +12,21 @@ Sleek Styling: Clean and modern design using Bootstrap for an efficient grid and
 Dynamic Content: Smooth navigation and structured sections highlighting key areas like About, Projects, Skills, and Contact.
 
 🛠️ Technologies Used
+
 HTML5: Markup language to structure the content of the webpage.
+
 CSS3: For custom styling, animations, and layout refinements.
+
 Bootstrap 5: Responsive framework for grid layout, mobile-first design, and pre-built components.
+
 JavaScript (JS): Adding interactivity and custom behavior like animations, smooth scrolling, and dynamic effects.
 
 🎨 Sections Included
+
 Home: Introduction and animated hero section.
+
 About: Brief description of my background and experience.
+
 Projects: Showcase of selected projects, featuring hover effects and smooth animations.
+
 Skills: List of technical skills presented in a visually appealing way.
